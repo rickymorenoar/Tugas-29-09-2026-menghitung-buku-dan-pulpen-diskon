@@ -1,0 +1,15 @@
+C:\Users\Ammar\source\repos\tugas\tugas\bin\Debug\net10.0\tugas.exe
+C:\Users\Ammar\source\repos\tugas\tugas\bin\Debug\net10.0\tugas.deps.json
+C:\Users\Ammar\source\repos\tugas\tugas\bin\Debug\net10.0\tugas.runtimeconfig.json
+C:\Users\Ammar\source\repos\tugas\tugas\bin\Debug\net10.0\tugas.dll
+C:\Users\Ammar\source\repos\tugas\tugas\bin\Debug\net10.0\tugas.pdb
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.AssemblyInfoInputs.cache
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.AssemblyInfo.cs
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.dll
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\refint\tugas.dll
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.pdb
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.genruntimeconfig.cache
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\ref\tugas.dll
+C:\Users\Ammar\source\repos\tugas\tugas\obj\Debug\net10.0\tugas.csproj.Up2Date
